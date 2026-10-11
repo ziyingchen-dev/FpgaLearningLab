@@ -1,0 +1,30 @@
+$date
+	Sun Oct 11 16:33:42 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module key_input_tb $end
+$var wire 1 ! led $end
+$var reg 1 " key_n $end
+$scope module dut $end
+$var wire 1 " key_n $end
+$var wire 1 ! led $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1"
+0!
+$end
+#20000
+1!
+0"
+#40000
+0!
+1"
+#41000
